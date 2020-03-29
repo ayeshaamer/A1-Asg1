@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BCSF16M001_AI_1/1.0.0": {
+        "runtime": {
+          "BCSF16M001_AI_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BCSF16M001_AI_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
